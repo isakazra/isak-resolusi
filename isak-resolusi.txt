@@ -1,3 +1,4 @@
 Isak Resolusi
 - Konsisten belajar programming setiap hari
 - Membuat sistem sederhana yaitu CRUD dengan cara Prosedural, OOP dan PDO
+- Kolaborasi dengan lebih bnyak expert
